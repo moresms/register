@@ -1,0 +1,17 @@
+{
+    "repo": "https://github.com/moresms/moresms",
+
+    "owner": {
+        "username": "moresms",
+        "email": "moresms@hotmail.com"
+    },
+
+    "target": {
+        "ns": {
+            "name": "moresms",
+            "value": "ns1.dynamix.run" "ns2.dynamix.run"
+        }
+    },
+
+    "proxied": false
+}
